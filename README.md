@@ -1,2 +1,3 @@
-# amr-screening-thailand
-Excel-based cost model for preoperative antimicrobial resistance screening in Thai hospitals
+##AMR Screening Cost Analysis – Thailand
+
+This repository contains an Excel-based pilot cost analysis model comparing preoperative screening for antimicrobial-resistant bacteria with standard care (no screening) among patients undergoing elective colorectal surgery in Thailand.The model considers third-generation cephalosporin-resistant Enterobacterales (3GCR) and carbapenem-resistant Gram-negative bacteria (CR), and estimates costs across three surgical site infection outcomes: no SSI, susceptible SSI, and resistant SSI.The workbook contains the cost calculations, model parameters, and input prices. Selected parameters can be modified to explore alternative scenarios.The model is associated with the manuscript Evaluating screening-based interventions for controlling WHO-priority bacteria in Thai hospitals: a review of evidence and a pilot cost analysis.Parameter values are modelling assumptions informed by published literature and should not be interpreted as direct clinical estimates or treatment recommendations.
